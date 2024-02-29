@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  string variable = "feature";
-  cout<<variable<<'\n';
+  string var = "feature";
+  cout<<var<<'\n';
   return 0;
 }
