@@ -1,3 +1,3 @@
 # DEMO
 
-gonna use this repository for demo purposes
+gonna use this repository for demo and practice purposes.
